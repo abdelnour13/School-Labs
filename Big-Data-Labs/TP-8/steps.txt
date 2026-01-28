@@ -1,0 +1,7 @@
+- download apache-airflow (pip install apache-airflow)
+- run the first tow commands in the file : commands.sh.
+- go to /home/<username>/airflow
+- create a subfolder dags
+- move the file tp8.py to the newly created folder (don't forget to change the path ROOT_DIR in the code, so ROOT_DIR/tmp and ROOT_DIR/tmp/images point to existing folders).
+- run the last tow commands (in tow seprate windows).
+- run the dag (with name : tp8) using the Web UI (you need to authenticate with username : admin,pwd : admin).
