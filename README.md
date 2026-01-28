@@ -1,3 +1,6 @@
-# Big-Data-Labs
+Here you find Labs corresponding to the following subjects :
 
-In this repository, you will find my solutions and reports for all the labs of the "Big Data Technologies" course offered by the Higher School of Computer Science 08 May 1945 - Sidi Bel Abbes, Algeria, for 2nd upper cycle students specializing in "Artificial Intelligence and Data Science."
+- [Big Data](https://github.com/abdelnour13/School-Labs/tree/main/Big-Data-Labs)
+- [Deep Learning](https://github.com/abdelnour13/School-Labs/tree/main/Deep-Learning-Labs)
+- [Machine Learning](https://github.com/abdelnour13/School-Labs/tree/main/Machine-Learning-Labs)
+- [Natural Language Processing](https://github.com/abdelnour13/School-Labs/tree/main/NLP-Labs)
